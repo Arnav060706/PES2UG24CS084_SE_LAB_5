@@ -1,0 +1,21 @@
+************* Module scholarship_disbursement
+scholarship_disbursement.py:5:0: C0301: Line too long (122/100) (line-too-long)
+scholarship_disbursement.py:10:0: C0301: Line too long (130/100) (line-too-long)
+scholarship_disbursement.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+scholarship_disbursement.py:6:0: C0103: Constant name "disbursed_total" doesn't conform to UPPER_CASE naming style (invalid-name)
+scholarship_disbursement.py:9:0: C0116: Missing function or method docstring (missing-function-docstring)
+scholarship_disbursement.py:9:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+scholarship_disbursement.py:10:17: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+scholarship_disbursement.py:15:0: C0116: Missing function or method docstring (missing-function-docstring)
+scholarship_disbursement.py:16:4: W0603: Using the global statement (global-statement)
+scholarship_disbursement.py:15:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+scholarship_disbursement.py:24:0: C0116: Missing function or method docstring (missing-function-docstring)
+scholarship_disbursement.py:27:11: W0718: Catching too general exception Exception (broad-exception-caught)
+scholarship_disbursement.py:31:0: C0116: Missing function or method docstring (missing-function-docstring)
+scholarship_disbursement.py:31:0: C0103: Function name "bySchemeCount" doesn't conform to snake_case naming style (invalid-name)
+scholarship_disbursement.py:32:7: C0121: Comparison 'scheme == None' should be 'scheme is None' (singleton-comparison)
+scholarship_disbursement.py:37:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 5.00/10
+
